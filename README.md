@@ -3,7 +3,7 @@ This group final project presents a machine learning–based churn prediction mo
 
 ---
 
-## I - BUSINESS UNDERSTANDING
+## I. BUSINESS UNDERSTANDING
 
 ### **Context**  
 Customer churn—when users stop using a service—is a major challenge in e-commerce, leading to revenue loss, higher acquisition costs, and reduced customer lifetime value. Retaining customers is significantly more cost-effective than acquiring new ones. This project uses historical data and machine learning to predict churn risk and help stakeholders implement targeted retention strategies.
@@ -25,7 +25,7 @@ Scope includes modeling churn from structured historical data, analyzing key chu
 
 ---
 
-## II - DATA EXPLORATION AND PREPARATION
+## II. DATA EXPLORATION AND PREPARATION
 This phase covers data understanding, data cleaning, and exploratory data analysis (EDA) conducted for both business and machine learning purposes, as well as data preprocessing to prepare the dataset for modeling. The dataset contains 5,630 rows and 20 columns, including 19 features related to customer demographics, behavior, and transactions, plus the target variable **Churn**.
 
 The data cleaning process includes handling missing values, converting incorrect data types, removing duplicate data, resolving inconsistent data, and addressing outliers based on domain knowledge.
@@ -51,7 +51,7 @@ During data preprocessing, the following steps were applied:
 
 ---
 
-## III - MODELING AND EVALUATION
+## III. MODELING AND EVALUATION
 This chapter covers building a classification model to predict e-commerce customer churn. It includes model benchmarking, handling class imbalance, hyperparameter tuning, and selecting the best model. The final model is explained, evaluated with key metrics, and analyzed for feature importance and business impact to ensure practical value.
 
 ### **1. Benchmark Model**  
@@ -84,7 +84,7 @@ Benchmarking compares ten classification algorithms under identical preprocessin
 
 ---
 
-## IV - CONCLUSION AND RECOMMENDATION
+## IV. CONCLUSION AND RECOMMENDATION
 
 ### **Conclusion**   
 
