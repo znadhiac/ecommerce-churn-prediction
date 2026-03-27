@@ -179,7 +179,7 @@ The project provides actionable insights to reduce churn and optimize retention 
 **Streamlit App:** [E-Commerce Churn Prediction App](https://ecommercechurnapp-groupalpha.streamlit.app/)  
 Input customer attributes to predict churn probability.
 
-**Tableau Dashboard:** [E-Commerce Dashboard Analysis](https://public.tableau.com/app/profile/aldino.putra/viz/E-CommerceChurnAnalysis_17536276743170/MainDashboard?showOnboarding=true)  
+**Tableau Dashboard:** [E-Commerce Churn Analysis Dashboard](https://public.tableau.com/app/profile/znadhiac/viz/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)  
 Interactive data exploration and churn pattern visualization.
 
 ![Churn Dashboard](tableau_dashboard.png)
@@ -200,7 +200,6 @@ Interactive data exploration and churn pattern visualization.
 ---  
 
 ## CONTRIBUTORS  
-**Group Alpha – JCDSOL-018, Purwadhika**  
 - Zulfi Nadhia Cahyani (https://github.com/znadhiac)  
 - Liswatun Naimah (https://github.com/Liswatunnaimah)  
 - Aldino Dian Mandala Putra (https://github.com/aldino9112)  
