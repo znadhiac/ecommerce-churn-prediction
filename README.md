@@ -182,7 +182,7 @@ Input customer attributes to predict churn probability.
 **Tableau Dashboard:** [E-Commerce Churn Analysis Dashboard](https://public.tableau.com/app/profile/znadhiac/viz/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)  
 Interactive data exploration and churn pattern visualization.
 
-![E-Commerce Churn Dashboard](tableaupublic_dashboard.png)
+![E-Commerce Churn Dashboard](tableau_dashboard.png)
 
 ---
 
